@@ -37,4 +37,5 @@ Now download the IFTTT app signin withe the same id what you are using in your m
 <img src="https://github.com/udaysolanki4/Assist-Home/blob/master/assist/Screenshot7.png" height="400" align="centre" />
 <img src="https://github.com/udaysolanki4/Assist-Home/blob/master/assist/Screenshot09.png" height="400" align="centre" />
 
+Now if you go to your google assistant ask for switch on the light or fan and congratulation you did it.
 Thank You. Go Ahead and Keep Experimenting.
